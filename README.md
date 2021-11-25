@@ -1,1 +1,1 @@
-# ajs_10-2_asyng
+# ajs_10-2_asyng [![Build status](https://ci.appveyor.com/api/projects/status/r7tlxu051lq5d4nw?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ajs-10-2-asyng)
